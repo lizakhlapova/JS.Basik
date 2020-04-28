@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+#box {
+    border: 5px solid rgb(4, 28, 136);
+    border-radius: 10px;
+    padding: 16px;
+    margin: 16px;
+    color: #777;
+    width: 220px;
+    text-align: center;
+}
